@@ -26,8 +26,7 @@
 | [Yapb](https://github.com/yapb/yapb) | Metamod插件.是CS1.6的AI机器人，允许单机或联网 | V4.4.957|
 | [Bspguy](https://github.com/wootguy/bspguy) | 无需反编译的编辑 GoldSrc 地图的工具 | V5|
 | [ReHLDS Insight](https://github.com/hun1er/rehlds-insight) | 诊断CS1.6服务器崩溃的工具 | V2025.11.27|
-
-
+| [纯真IP库](https://github.com/nmgliangwei/qqwry) | 纯真dat IP地址库，使用 CZDB 重新制作，不支持 IPV6 | V2026.05.13|
 
 ### 📫 Web项目收集（持续更新）   
  | 项目 | 简介 | 版本 |
