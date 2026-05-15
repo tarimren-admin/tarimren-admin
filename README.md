@@ -24,6 +24,9 @@
 | [VoiceTranscoder](https://github.com/WPMGPRoSToTeMa/VoiceTranscoder) | Metamod插件.允许非Steam和Steam客户端之间进行语音聊天（适用于HLDS和ReHLDS） | V2017RC15|
 | [Amxmodx](https://github.com/alliedmodders/amxmodx) | Metamod插件.为游戏引擎及其模组提供了全面的脚本功能。脚本可以拦截网络消息、记录事件、命令、客户端命令、设置cvars、修改实体等。AMX Mod X还有一种通过模块扩展原生脚本的系统，从而为MySQL和Sockets等事物提供外部支持。 | V1.9.0.5303|
 | [Yapb](https://github.com/yapb/yapb) | Metamod插件.是CS1.6的AI机器人，允许单机或联网 | V4.4.957|
+| [Bspguy](https://github.com/wootguy/bspguy) | 无需反编译的编辑 GoldSrc 地图的工具 | V5|
+| [ReHLDS Insight](https://github.com/hun1er/rehlds-insight) | 诊断CS1.6服务器崩溃的工具 | V2025.11.27|
+
 
 
 ### 📫 Web项目收集（持续更新）   
