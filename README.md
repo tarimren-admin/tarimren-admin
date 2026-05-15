@@ -1,16 +1,36 @@
-## Hi there 👋
+###  大家好, 我是毛毛的老公 👋 来自中国
 
-<!--
-**tarimren-admin/tarimren-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ❤️ 爱好收集各类资源，并定制CS1.6 Server
 
-Here are some ideas to get you started:
+#### 目前学习内容
+**- C++, PAWN, PHP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 常用工具 🛠️
+**- 棋子, SQL, php**
+
+### 👔 CS相关项目 
+ | 项目 | 简介 | 版本 |
+ |-------|-------|-------|
+| ReHLDS | 改进版的原版HLDS引擎，包含许多安全修复和性能优化。它提供了一个更稳定和增强的服务器环境，具有扩展的API支持，用于模组和插件，提供更好的安全性和效率 | v3.14.0.857    |
+| ReHLDS | 社交发现小组 | LLM，对话AI    |
+| ReHLDS | 社交发现小组 | LLM，对话AI    | 
+| ReHLDS | 社交发现小组 | LLM，对话AI    |
+| ReHLDS | 社交发现小组 | LLM，对话AI    |
+
+### 📫 网络项目  
+ | 项目 | 简介 | 版本 |
+ |-------|-------|-------|
+| ReHLDS | 改进版的原版HLDS引擎，包含许多安全修复和性能优化。它提供了一个更稳定和增强的服务器环境，具有扩展的API支持，用于模组和插件，提供更好的安全性和效率 | v3.14.0.857    |
+| ReHLDS | 社交发现小组 | LLM，对话AI    |
+| ReHLDS | 社交发现小组 | LLM，对话AI    | 
+| ReHLDS | 社交发现小组 | LLM，对话AI    |
+| ReHLDS | 社交发现小组 | LLM，对话AI    |
+
+### 🤖  Amxmodx插件  
+ | 项目 | 简介 | 版本 |
+ |-------|-------|-------|
+| ReHLDS | 改进版的原版HLDS引擎，包含许多安全修复和性能优化。它提供了一个更稳定和增强的服务器环境，具有扩展的API支持，用于模组和插件，提供更好的安全性和效率 | v3.14.0.857    |
+| ReHLDS | 社交发现小组 | LLM，对话AI    |
+| ReHLDS | 社交发现小组 | LLM，对话AI    | 
+| ReHLDS | 社交发现小组 | LLM，对话AI    |
+| ReHLDS | 社交发现小组 | LLM，对话AI    |
