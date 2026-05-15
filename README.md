@@ -1,6 +1,6 @@
-###  大家好 👋 我来自中国
+###  大家好 👋 
 
-### ❤️ 热衷收集各类大神的分享资源，进而构建各种模式的CS1.6 Server
+### ❤️ CS1.6爱好者，收集汇总各类大神的分享资源
 
 #### 目前学习内容
 **- C++, Pawn, PHP**
@@ -30,6 +30,8 @@
  | 项目 | 简介 | 版本 |
  |-------|-------|-------|
 | [EServer](https://github.com/xianyunleo/EServer) | Windows Mac平台下的一款集成Nginx、PHP、MySQL、Redis等服务的GUI集成环境,前身是 phpEnv | v5.3.6    |
+| [Typecho](https://typecho.org/) | 一款博客程序，在 GPL version 2 许可证下发行，基于 PHP (需要 PHP5 以上版本)构建,可以运行在各种平台上，支持多种数据库(Mysql, PostgreSQL, SQLite) | v1.3    |
+
 
 ### 🤖  Amxmodx插件收集（持续更新）   
  | 项目 | 简介 | 版本 |
