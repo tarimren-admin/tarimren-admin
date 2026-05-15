@@ -41,4 +41,4 @@
 ### 🤖  Amxmodx插件收集（持续更新）   
  | 项目 | 简介 | 更新时间 |
  |-------|-------|-------|
-| [资源收集](https://github.com/tarimren-admin/Amxmodx-Plugins) | 收集汇总Amxmodx插件及源码 | 2026.05.15    |
+| [Amxmodx资源仓库](https://github.com/tarimren-admin/Amxmodx-Plugins) | 收集汇总Amxmodx插件及源码，仓库中附有资源名称、用途，便于查询使用 | 2026.05.15    |
