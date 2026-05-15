@@ -12,7 +12,7 @@
  | 项目 | 简介 | 版本 |
  |-------|-------|-------|
 | [ReHLDS](https://github.com/tarimren-admin/01.ReHLDS) | 改进版的原版HLDS引擎，包含许多安全修复和性能优化。它提供了一个更稳定和增强的服务器环境，具有扩展的API支持，用于模组和插件，提供更好的安全性和效率 | v3.14.0.857    |
-| ReHLDS | 社交发现小组 | 大型语言模型，对话AI    |
+| [ReGameDLL](https://github.com/tarimren-admin/02.ReGameDLL_CS) | 提供更稳定的（比官方版更稳定）反恐精英游戏版本，并扩展API以支持模组和插件 | V5.28.0.756    |
 | ReHLDS | 社交发现小组 | 大型语言模型，对话AI    | 
 | ReHLDS | 社交发现小组 | 大型语言模型，对话AI    |
 | ReHLDS | 社交发现小组 | 大型语言模型，对话AI    |
