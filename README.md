@@ -18,8 +18,10 @@
 | [Reunion](https://github.com/rehlds/reunion) | Metamod插件.支持游戏客户端协议（协议47）的兼容性，作为DProto的续作，具备新的服务器保护功能 | V0.2.0.34    |
 | [Rechecker](https://github.com/rehlds/rechecker) | Metamod插件.通过md5哈希值检查客户端文件的一致性 | V2.7 |
 | [Resemiclip](https://github.com/rehlds/resemiclip) | Metamod插件.控制玩家的通过能力,避免玩家重生后重叠卡死 | V2.4.3 |
-| [Revoice](https://github.com/rehlds/revoice) | Metamod插件.允许非Steam和Steam客户端之间进行语音聊天（适用于ReHLDS） | V0.1.0.34|
 | [Hitbox_fix](https://github.com/Garey27/hitbox_fixer) | Metamod插件.修复了CS1.6、half-life、AG中玩家服务器端的错误命中框 | V2.0.3|
+| [Revoice](https://github.com/rehlds/revoice) | Metamod插件.允许非Steam和Steam客户端之间进行语音聊天（适用于ReHLDS） | V0.1.0.34|
+| [Revoice-plus](https://github.com/Garey27/revoice-plus) | Metamod插件.Revoice的加强版，允许非Steam和Steam客户端之间进行语音聊天（适用于ReHLDS） | V2.1.0|
+| [VoiceTranscoder](https://github.com/WPMGPRoSToTeMa/VoiceTranscoder) | Metamod插件.允许非Steam和Steam客户端之间进行语音聊天（适用于HLDS和ReHLDS） | V2017RC15|
 
 ### 📫 Web项目  
  | 项目 | 简介 | 版本 |
