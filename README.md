@@ -27,6 +27,9 @@
 | [Bspguy](https://github.com/wootguy/bspguy) | 无需反编译的编辑 GoldSrc 地图的工具 | V5|
 | [ReHLDS Insight](https://github.com/hun1er/rehlds-insight) | 诊断CS1.6服务器崩溃的工具 | V2025.11.27|
 | [纯真IP库](https://github.com/nmgliangwei/qqwry) | 纯真dat IP地址库，使用 CZDB 重新制作，不支持 IPV6 | V2026.05.13|
+| [PugMod](https://github.com/SmileYzn/PugMod) | Metamod插件.自动化组织CS1.6比赛，无需Amxmodx支持 | V2026.05.09|
+| [CSDM](https://github.com/SmileYzn/CSDM) | Metamod插件.基于ReGameDLL的死亡竞赛插件，无需Amxmodx支持 | V2024.11.12|
+| [MatchBot](https://github.com/SmileYzn/MatchBot) | Metamod插件.允许服务器在没有管理员控制的情况下运行完整的比赛，无需Amxmodx支持 | V2024.7.13|
 
 ### 📫 Web项目收集（持续更新）   
  | 项目 | 简介 | 版本 |
