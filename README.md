@@ -36,7 +36,8 @@
  |-------|-------|-------|
 | [EServer](https://github.com/xianyunleo/EServer) | Windows Mac平台下的一款集成Nginx、PHP、MySQL、Redis等服务的GUI集成环境,前身是 phpEnv | v5.3.6    |
 | [Typecho](https://typecho.org/) | 一款博客程序，在 GPL version 2 许可证下发行，基于 PHP (需要 PHP5 以上版本)构建,可以运行在各种平台上，支持多种数据库(Mysql, PostgreSQL, SQLite) | v1.3    |
-
+| [Typecho后台美化主题插件](https://github.com/lhl77/Typecho-Plugin-AdminBeautify) | 最美 Typecho 后台主题, Material Design 3风格 | v2.1.42    |
+| [Typecho主题-Butterfly](https://github.com/wehaox/Typecho-Butterfly) | Hexo主题Butterfly的Typecho移植版 | v1.8.1   |
 
 ### 🤖  Amxmodx插件收集（持续更新）   
  | 项目 | 简介 | 更新时间 |
