@@ -11,6 +11,7 @@
 ### 👔 CS相关项目收集（持续更新） 
  | 项目 | 简介 | 版本 |
  |-------|-------|-------|
+| [CS-Server-Build ](https://github.com/tarimren-admin/CS-Server-Build) | CS1.6 服务器构建平台| V2026.06    |
 | [ReHLDS](https://github.com/rehlds/ReHLDS) | 改进版的原版HLDS引擎，包含许多安全修复和性能优化。它提供了一个更稳定和增强的服务器环境，具有扩展的API支持，用于模组和插件，提供更好的安全性和效率 | V3.15.0.896    |
 | [ReGameDLL](https://github.com/rehlds/ReGameDLL_CS) | 比官方（CS和CS.Z）更稳定的游戏库（mp.dll），带有扩展的API用于模组和插件，增强并修复了错误 | V5.30.0.814    |
 | [ReAPI](https://github.com/rehlds/reapi) | AMXModX模块，提供 ReHLDS、ReGameDLL、ReChecker、ReUnion、VoiceTranscoder API 用于在amxmodx插件开发中使用 | V5.29.0.358    | 
